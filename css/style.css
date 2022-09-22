@@ -90,7 +90,7 @@ a[aria-current='page']{
 .footer{
   display:grid;
   grid-template-columns: repeat(3, 1fr);
-  margin-top:6%;
+  margin-top:auto;
 }
 
 .grid-item {
